@@ -1,0 +1,88 @@
+{
+    "videoListDetail": [
+        {
+            "title": "1Small",
+            "url": "http://mirrors.standaloneinstaller.com/video-sample/small.mp4",
+            "description": "Video sample for Entertainment",
+            "thumbnail": "./Screenshot.png",
+            "id": 1
+        },
+        {
+            "title": "2dolbycanyon",
+            "url": "http://mirrors.standaloneinstaller.com/video-sample/dolbycanyon.mp4",
+            "description": "Video dolbycanyon for Entertainment",
+            "thumbnail": "./abc/Screensh.png",
+            "id": 2
+        },
+        {
+            "title": "3DLP_PART_2_768k",
+            "url": "http://mirrors.standaloneinstaller.com/video-sample/DLP_PART_2_768k.mp4",
+            "description": "Video DLP_PART_2_768k for Entertainment",
+            "thumbnail": "./3Screenshot.png",
+            "id": 3
+        },
+        {
+            "title": "4grb_2",
+            "url": "http://mirrors.standaloneinstaller.com/video-sample/grb_2.mp4",
+            "description": "Video grb_2 for Entertainment",
+            "thumbnail": "./4Screenshot.png",
+            "id": 4
+        },
+        {
+            "title": "5Cartoon5",
+            "url": "http://mirrors.standaloneinstaller.com/video-sample/P6090053.mp4",
+            "description": "Video for Entertainment",
+            "thumbnail": "./5Screenshot.png",
+            "id": 5
+        },
+        {
+            "title": "6Cartoon6",
+            "url": "http://mirrors.standaloneinstaller.com/video-sample/TRA3106.mp4",
+            "description": "Video for Entertainment",
+            "thumbnail": "./6Screensh.png",
+            "id": 6
+        },
+        {
+            "title": "7Small",
+            "url": "http://mirrors.standaloneinstaller.com/video-sample/small.mp4",
+            "description": "Video sample for Entertainment",
+            "thumbnail": "./Screenshot.png",
+            "id": 7
+        },
+        {
+            "title": "8dolbycanyon",
+            "url": "http://mirrors.standaloneinstaller.com/video-sample/dolbycanyon.mp4",
+            "description": "Video dolbycanyon for Entertainment",
+            "thumbnail": "./2Screenshot.png",
+            "id": 8
+        },
+        {
+            "title": "9DLP_PART_2_768k",
+            "url": "http://mirrors.standaloneinstaller.com/video-sample/DLP_PART_2_768k.mp4",
+            "description": "Video DLP_PART_2_768k for Entertainment",
+            "thumbnail": "./3Screenshot.png",
+            "id": 9
+        },
+        {
+            "title": "10grb_2",
+            "url": "http://mirrors.standaloneinstaller.com/video-sample/grb_2.mp4",
+            "description": "Video grb_2 for Entertainment",
+            "thumbnail": "./4Screenshot.png",
+            "id": 10
+        },
+        {
+            "title": "11Cartoon5",
+            "url": "http://mirrors.standaloneinstaller.com/video-sample/P6090053.mp4",
+            "description": "Video for Entertainment",
+            "thumbnail": "./5Screenshot.png",
+            "id": 11
+        },
+        {
+            "title": "12Cartoon6",
+            "url": "http://mirrors.standaloneinstaller.com/video-sample/TRA3106.mp4",
+            "description": "Video for Entertainment",
+            "thumbnail": "./6Screensh.png",
+            "id": 12
+        }
+    ]
+}

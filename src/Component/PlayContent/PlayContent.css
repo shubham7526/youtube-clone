@@ -1,0 +1,10 @@
+.sidebar-right-video{
+    background-color: tomato;
+    height: 800px;
+    padding: 35px;
+    overflow-y: auto;
+}
+.play-video{
+    padding: 60px 60px 60px 180px;
+    /* height: 700px; */
+}
